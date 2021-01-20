@@ -3,10 +3,8 @@
     link: /pricing/
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
-  - name: Contact
-    link: /contact/
+  - name: Status
+    link: /
 - links:
   - name: Login
     link: /
@@ -15,9 +13,6 @@
     link: /
     new_window: true
   - name: Docs
-    link: /
-    new_window: true
-  - name: Status
     link: /
     new_window: true
 - links:
@@ -33,7 +28,3 @@
     link: https://youtube.com/cloudcannon/
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
