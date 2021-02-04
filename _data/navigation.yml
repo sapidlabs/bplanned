@@ -7,10 +7,10 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: https://bplanned.herokuapp.com
   new_window: true
   highlight: false
 - name: Sign Up
-  link: /
+  link: https://bplanned.herokuapp.com
   new_window: true
   highlight: true
