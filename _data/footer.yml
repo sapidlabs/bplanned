@@ -3,8 +3,6 @@
     link: /pricing/
   - name: Blog
     link: /blog/
-  # - name: Status
-  #   link: /
 - links:
   - name: Login
     link: https://bplanned.herokuapp.com
