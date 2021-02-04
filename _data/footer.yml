@@ -3,8 +3,6 @@
     link: /pricing/
   - name: Blog
     link: /blog/
-  - name: Privacy Policy
-    link: /privacy-policy/
 - links:
   - name: Login
     link: https://bplanned.herokuapp.com
