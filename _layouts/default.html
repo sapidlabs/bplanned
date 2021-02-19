@@ -21,6 +21,9 @@
 </head>
 
 <body>
+	{% if jekyll.environment == 'production' %}
+		{% include fb_chat.html %}
+	{% endif %}
 	<header>
 		<div class="container">
 			<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo-img.svg"
