@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Bplanned app
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: B-Planned helps you better organize your meeting notes within events.
+author: Abhishek
+  name: Abhishek
+  email: support@bplanned.com
+  twitter:
 social:
   name: Bplanned
   links:
-    - 
+    - https://www.facebook.com/bplannedApp
 
 # -----
 # Build
