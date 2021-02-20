@@ -2,6 +2,7 @@
 title: How to add private notes to calendar?
 categories: features
 author_staff_member: Abhishek
+description: How to add private notes to calendar?
 date: 20 Feb 2021
 ---
 
