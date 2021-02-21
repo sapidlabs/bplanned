@@ -6,7 +6,7 @@ description: How to add private notes to calendar?
 date: 20 Feb 2021
 ---
 
-Ever wondered...if you could somehow add notes to a shared calendar? Unfortunately, you can't do it with traditional calendars. B-Planned allows you to add private notes shared events on calendar.
+Ever wondered...if you could somehow add notes to calendar? Unfortunately, you can't do it with traditional calendars. B-Planned allows you to add private notes shared events on calendar.
 
 
 ### How to add private notes to calendar?
