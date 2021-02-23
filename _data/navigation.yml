@@ -9,8 +9,10 @@
 - name: Login
   link: https://app.bplanned.com
   new_window: true
+  conversion: true
   highlight: false
 - name: Sign Up
   link: https://app.bplanned.com
   new_window: true
+  conversion: true
   highlight: true

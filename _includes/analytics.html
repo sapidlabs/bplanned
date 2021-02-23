@@ -8,3 +8,25 @@
   gtag('config', '{{ site.google_analytics_key }}');
   gtag('config', 'AW-624664228');
 </script>
+
+<!-- Event snippet for Sign-up conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+  function gtag_report_conversion(url) {
+    var callback = function () {
+      if (typeof(url) != 'undefined') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'conversion', {
+        'send_to': 'AW-624664228/CXNYCK3NjfcBEKS97qkC',
+        'event_callback': callback
+    });
+    return false;
+  }
+
+  $(document).ready(function(){
+    $('[data-conversion-link=true]').on('click', () => gtag_report_conversion())
+  })
+</script>
+    
