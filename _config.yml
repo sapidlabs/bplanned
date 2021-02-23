@@ -4,7 +4,7 @@
 title: Bplanned App
 url: "https://bplanned.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: 'G-RQFFWH3Z4B'
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -110,4 +110,3 @@ _comments:
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
 
-ga_tracking_id: 'G-RQFFWH3Z4B'
