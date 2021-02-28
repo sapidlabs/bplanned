@@ -2,7 +2,7 @@
 title: How to add private notes to calendar?
 categories: features
 author_staff_member: Abhishek
-description: How to add private notes to calendar?
+description: Be better planned for your online meeting with bplanned, plan your meetings add private notes to calendar. 14 days free trial
 date: 20 Feb 2021
 ---
 
