@@ -28,4 +28,4 @@ Here's the catch, Bplanned app allows you to store the meeting notes directly in
 
 For your upcoming meetings, you could save your notes anytime as soon as it comes to your mind. That's the beauty of it. Bplanned app offers a 14 days free trial, try it out for your self.
 
-Be Better Planned
+[Learn how you can save notes to calendar](https://bplanned.com/features/2021/02/20/how-to-add-private-notes-to-calendar/)
