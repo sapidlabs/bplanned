@@ -1,0 +1,7 @@
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+{% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+{% else %}
+  <meta name="keywords" content="Bplanned App, Planning calendar online, best planning calendar online, Meetings planner, Getting things done calendar">
+{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
