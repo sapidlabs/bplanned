@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-	font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+	font-family: 'Lora', serif;
 }
 
 a {
@@ -45,10 +45,19 @@ h3 {
 }
 
 
-p, address {
+address {
 	font-size: 1.38em;
 	color: #666;
 	margin-bottom: 20px;
 	font-weight: 300;
 	line-height: 1.4em;
 }
+
+p {
+	font-size: 1.38em;
+	color: rgb(45, 42, 42);
+	margin-bottom: 20px;
+	font-weight: 300;
+	line-height: 1.4em;
+}
+
