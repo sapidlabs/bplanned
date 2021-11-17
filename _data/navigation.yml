@@ -1,5 +1,5 @@
 - name: Pricing
-  link: /pricing/
+  link: 
   new_window: false
   highlight: false
 - name: Blog
@@ -7,12 +7,12 @@
   new_window: false
   highlight: false
 - name: Login
-  link: https://app.bplanned.com
-  new_window: true
+  link: 
+  new_window: false
   conversion: true
   highlight: false
 - name: Sign Up
-  link: https://app.bplanned.com
-  new_window: true
+  link: 
+  new_window: false
   conversion: true
   highlight: true
